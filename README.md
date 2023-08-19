@@ -24,6 +24,7 @@ Carpeta files: en esta carpeta se encuentra el archivo que se ha utilizado para 
 
 ## Librerias utilizadas
  * pandas Puedes encontrar la documentación oficial a través del siguiente [link](https://pandas.pydata.org/docs/user_guide/index.html).
+  * numpy Puedes encontrar la documentación oficial a través del siguiente [link](https://numpy.org/doc/stable/user/index.html#user).
  * mysql.connector Puedes encontrar la documentación oficial a través del siguiente [link](https://dev.mysql.com/doc/connector-python/en/connector-python-versions.html).
 
 ## Estructuras utilizadas
